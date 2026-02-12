@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>え、また上がった！？ 〜全国値上げバラエティ速報〜</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <p class="subtitle">〜全国値上げバラエティ速報〜</p>
+    <h1 class="logo">え、また上がった！？</h1>
+    <p class="avg-rate" id="avgRate">今月の平均値上げ率：計算中...</p>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <h2 id="heroTitle">💥今週の最大ショック</h2>
+      <article id="maxShockCard" class="shock-card hero-card"></article>
+    </section>
+
+    <section class="section-block" aria-labelledby="latestTitle">
+      <h2 id="latestTitle">🍜 最新ショック3選</h2>
+      <div id="latestList" class="card-grid"></div>
+    </section>
+
+    <section class="section-block" aria-labelledby="rankingTitle">
+      <h2 id="rankingTitle">📈 値上げ率ランキング TOP10</h2>
+      <ol id="rankingList" class="ranking-list"></ol>
+    </section>
+
+    <section class="section-block tsukkomi" aria-labelledby="tsukkomiTitle">
+      <h2 id="tsukkomiTitle">🎭 ひとことツッコミ</h2>
+      <div class="tsukkomi-controls">
+        <button id="tsukkomiBtn" class="tsukkomi-btn" type="button">押すな危険</button>
+        <button id="tsukkomiBtn2" class="tsukkomi-btn alt" type="button">ツッコミ発射</button>
+      </div>
+      <p id="tsukkomiOutput" class="tsukkomi-output" aria-live="polite">ボタンを押すと魂のツッコミが飛び出します。</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>※掲載データはサンプルです。価格・コメントは架空のエンタメ表現です。</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

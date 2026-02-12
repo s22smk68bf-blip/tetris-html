@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "カップ麺（醤油）",
+    "category": "カップ麺",
+    "oldPrice": 108,
+    "newPrice": 158,
+    "date": "2026-01-24",
+    "comment": "これもう高級料理やん"
+  },
+  {
+    "id": 2,
+    "name": "自販機ジュース",
+    "category": "自販機",
+    "oldPrice": 100,
+    "newPrice": 240,
+    "date": "2026-02-10",
+    "comment": "遠足、崩壊。"
+  },
+  {
+    "id": 3,
+    "name": "板チョコ",
+    "category": "お菓子",
+    "oldPrice": 98,
+    "newPrice": 128,
+    "date": "2026-01-20",
+    "comment": "薄くなって高くなる、錬金術"
+  },
+  {
+    "id": 4,
+    "name": "アイス",
+    "category": "食品",
+    "oldPrice": 120,
+    "newPrice": 170,
+    "date": "2026-02-12",
+    "comment": "冬でも財布は凍る"
+  },
+  {
+    "id": 5,
+    "name": "牛乳",
+    "category": "食品",
+    "oldPrice": 198,
+    "newPrice": 248,
+    "date": "2026-01-30",
+    "comment": "朝の一杯が贅沢品"
+  },
+  {
+    "id": 6,
+    "name": "食パン",
+    "category": "食品",
+    "oldPrice": 138,
+    "newPrice": 178,
+    "date": "2026-02-06",
+    "comment": "トーストがセレブ化"
+  },
+  {
+    "id": 7,
+    "name": "フライドチキン",
+    "category": "外食",
+    "oldPrice": 220,
+    "newPrice": 280,
+    "date": "2026-02-04",
+    "comment": "骨まで値上げしてる"
+  },
+  {
+    "id": 8,
+    "name": "シャンプー",
+    "category": "日用品",
+    "oldPrice": 498,
+    "newPrice": 698,
+    "date": "2026-01-28",
+    "comment": "髪より先に財布がサラサラ"
+  },
+  {
+    "id": 9,
+    "name": "電車運賃",
+    "category": "交通",
+    "oldPrice": 190,
+    "newPrice": 220,
+    "date": "2026-02-08",
+    "comment": "移動するだけで課金"
+  },
+  {
+    "id": 10,
+    "name": "映画ポップコーン",
+    "category": "外食",
+    "oldPrice": 500,
+    "newPrice": 650,
+    "date": "2026-02-02",
+    "comment": "映画よりポップコーンが主役"
+  }
+]
